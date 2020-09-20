@@ -21,13 +21,16 @@ public class Main {
             {
                 System.out.println("Formato Inválido: " + val  );
             }
-            System.out.println("Deseja sair pressione 0, senão pressione 1");
+            System.out.println("Deseja sair pressione 0");
             rec = scan.nextInt();
-            if(rec==0)
+            switch(rec)
             {
-                loop = false;
+                case 0:
+                    loop = false;
+                    break;
+                default:
+                    break;
             }
         }
-
     }
 }

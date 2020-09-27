@@ -1,4 +1,3 @@
-# Desafio_NII_Compiladores
+ #Desafio Compiladores Balanceamento de Parênteses
 
-O programa valida a String que o usuario digita, ele entra com o valor no console na seguencia é devolvido se o valor é válido ou não, caso queria continuar validando outras variaveis basta digitar 
-qualquer numero exceto 0, que é o valor para sair 
+Ao abrir o programa o usuário deverá entrar com a String à ser validada, após entrar com a String o sistema irá retornar se está valido ou não. Caso deseja validar um novo caractere  digite qualquer número, se desejar sair digite 0.
